@@ -3,7 +3,6 @@ import 'package:my_shop/providers/products.dart';
 import 'package:my_shop/widget/product_item.dart';
 import 'package:provider/provider.dart';
 
-import '../models/product.dart';
 
 class ProductsGrid extends StatelessWidget {
   @override
